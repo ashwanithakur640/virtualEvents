@@ -1,0 +1,96 @@
+.hide {
+  display: none; 
+}
+.error{
+    color: red;
+}
+.asterisk{
+    color: red;
+}
+.left_side_profile .form-group img.preview_img, img.preview_img {
+    border-radius: 100%;
+    width: 160px;
+    height: 160px;
+    object-fit: cover;
+    margin-bottom: 15px;
+    display: inline-block;
+
+}
+.left_side_profile .form-group {
+    text-align: center;
+}
+.left_side_profile .form-group p{
+margin-top:10px;
+}
+.left_side_profile .form-group input {
+    width: 61%;
+}
+.data_class div#dataTable_wrapper {
+    display: block;
+}
+div#dataTable_length, div#dataTable_filter {
+    
+    padding: 13px 15px 6px;
+}
+div#dataTable_length{
+	text-align: left;
+    float: left;
+}
+div#dataTable_filter{
+	text-align:right;
+    float: right;
+}
+div#dataTable_length label select {
+    margin: 0px 17px;
+}
+ul.pagination {
+    padding-right: 26px;
+}
+ul.pagination li a {
+    border: 1px solid #ececec;
+    padding: 9px 17px;
+    display: inline-block;
+    margin-left: 6px;
+    margin-bottom: 14px;
+    color: #000;
+}
+ul.pagination li a:hover, ul.pagination li.active a{
+	background-color: #ececec;
+	color: #000;
+}
+div#dataTable_info {
+    padding-left: 23px;
+}
+.intl-tel-input{
+    display: block !important;
+}
+.intl-tel-input.separate-dial-code .selected-dial-code {
+    
+    padding: 6px !important;
+    padding-left: 28px !important;
+}
+.intl-tel-input.separate-dial-code.allow-dropdown.iti-sdc-3 .selected-flag {
+    height: 2px;
+}
+.collapse-item.active {
+    color: #4e73df;
+    font-weight: 700;
+        background-color: #eaecf4;
+}
+.upload_doc {
+    padding: 3px 8px;
+}
+table#dataTable {
+    width: 100% !important;
+}
+table#dataTable {
+    width: 100% !important;
+}
+
+.header_logo{
+    width: 75px;
+    height: auto;
+}
+.toggle_logo{
+    display: block !important; 
+}
